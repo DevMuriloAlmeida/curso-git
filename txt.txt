@@ -1,4 +1,8 @@
 testando
 teste modificando
 teste na branch staging
+<<<<<<< HEAD
 modificando no txt
+=======
+modificando no github
+>>>>>>> 43954e15c6d4d35a86e03a46070b571c583befa1
