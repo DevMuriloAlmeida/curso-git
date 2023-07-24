@@ -2,4 +2,4 @@ testando
 teste modificando
 teste na branch staging
 modificando no github
-alterando na branch 'conflito'
+alterando no txt
